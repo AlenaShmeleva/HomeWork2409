@@ -1,0 +1,15 @@
+C:\Users\Алёна\Desktop\HomeWork2409\task1(ver2.0)\bin\Debug\net6.0\task1(ver2.0).exe
+C:\Users\Алёна\Desktop\HomeWork2409\task1(ver2.0)\bin\Debug\net6.0\task1(ver2.0).deps.json
+C:\Users\Алёна\Desktop\HomeWork2409\task1(ver2.0)\bin\Debug\net6.0\task1(ver2.0).runtimeconfig.json
+C:\Users\Алёна\Desktop\HomeWork2409\task1(ver2.0)\bin\Debug\net6.0\task1(ver2.0).dll
+C:\Users\Алёна\Desktop\HomeWork2409\task1(ver2.0)\bin\Debug\net6.0\ref\task1(ver2.0).dll
+C:\Users\Алёна\Desktop\HomeWork2409\task1(ver2.0)\bin\Debug\net6.0\task1(ver2.0).pdb
+C:\Users\Алёна\Desktop\HomeWork2409\task1(ver2.0)\obj\Debug\net6.0\task1(ver2.0).csproj.AssemblyReference.cache
+C:\Users\Алёна\Desktop\HomeWork2409\task1(ver2.0)\obj\Debug\net6.0\task1(ver2.0).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алёна\Desktop\HomeWork2409\task1(ver2.0)\obj\Debug\net6.0\task1(ver2.0).AssemblyInfoInputs.cache
+C:\Users\Алёна\Desktop\HomeWork2409\task1(ver2.0)\obj\Debug\net6.0\task1(ver2.0).AssemblyInfo.cs
+C:\Users\Алёна\Desktop\HomeWork2409\task1(ver2.0)\obj\Debug\net6.0\task1(ver2.0).csproj.CoreCompileInputs.cache
+C:\Users\Алёна\Desktop\HomeWork2409\task1(ver2.0)\obj\Debug\net6.0\task1(ver2.0).dll
+C:\Users\Алёна\Desktop\HomeWork2409\task1(ver2.0)\obj\Debug\net6.0\ref\task1(ver2.0).dll
+C:\Users\Алёна\Desktop\HomeWork2409\task1(ver2.0)\obj\Debug\net6.0\task1(ver2.0).pdb
+C:\Users\Алёна\Desktop\HomeWork2409\task1(ver2.0)\obj\Debug\net6.0\task1(ver2.0).genruntimeconfig.cache
